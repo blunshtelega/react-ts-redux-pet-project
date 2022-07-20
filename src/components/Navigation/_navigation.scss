@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+}
+
+.navbar__link {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #201756;
+    font-family: $app-font-family;
+    font-weight: $font-bold;
+    font-size: $regular-font-size;
+}

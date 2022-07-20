@@ -1,0 +1,14 @@
+.header {
+    height: 70px;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    background-color: $app-background;
+
+    &__nav, 
+    &__logo, 
+    &__mini-cart{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+}
