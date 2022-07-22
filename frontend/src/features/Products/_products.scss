@@ -1,0 +1,30 @@
+.prodcut-card {
+    width: calc(80% - 15px);
+    height: auto;
+    display: flex;
+    border: 1px solid black;
+    margin: 0px auto 35px;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.test{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.admin-panel {
+    font-family: $app-font-family;
+    font-size: $regular-font-size;
+}
+
+.admin-panel__add-product-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-panel__solo-bolo {
+    margin: 15px 0;
+}

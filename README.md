@@ -1,6 +1,4 @@
-<h1>Frontend PET PROJECT (React, Typescript, Redux)</h1>
-
-Проект пишется (еще не закончен) под сделанный backend pet-project (`https://github.com/blunshtelega/Backend-NestJS`)
+<h1>Fullstack PET PROJECT (React, Typescript, Redux, NestJS)</h1>
 
 P.S. красоты пока нет, накинул минимальные стили для читабельности 
 
